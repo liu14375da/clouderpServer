@@ -1,0 +1,7 @@
+Sqlserver:
+  Isdebug: true
+  Server: "10.28.0.99"
+  Database: bsMaster
+  Port: "1433"
+  User: tempwrite
+  Password: _zxb.write.erp99

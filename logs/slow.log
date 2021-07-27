@@ -1,0 +1,6 @@
+{"@timestamp":"2021-06-30T17:57:15.400+08","level":"slow","content":"[HTTP] 400 - /to_ken/dataByTime - 10.28.83.123:53589 - PostmanRuntime/7.26.8 - slowcall(344767.0ms)","trace":"617ed17fe22aa554","span":"0"}
+{"@timestamp":"2021-06-30T17:57:33.694+08","level":"slow","content":"[HTTP] 200 - /to_ken/dataByTime - 10.28.83.123:53589 - PostmanRuntime/7.26.8 - slowcall(3930.0ms)","trace":"1f3cedd02f8de248","span":"0"}
+{"@timestamp":"2021-06-30T18:07:32.261+08","level":"slow","content":"[HTTP] 400 - /to_ken/dataByTime - 10.28.83.123:53589 - PostmanRuntime/7.26.8 - slowcall(2000.0ms)","trace":"3224b1f4607c73b5","span":"0"}
+{"@timestamp":"2021-06-30T18:23:12.607+08","level":"slow","content":"[HTTP] 200 - /to_ken/dataByTime - 10.28.83.123:56802 - PostmanRuntime/7.26.8 - slowcall(3560.0ms)","trace":"90faf19feab555a2","span":"0"}
+{"@timestamp":"2021-07-01T08:30:09.845+08","level":"slow","content":"[HTTP] 200 - /to_ken/dataByTime - 10.28.83.123:60422 - PostmanRuntime/7.26.8 - slowcall(1622.0ms)","trace":"cc03c3609f15a411","span":"0"}
+{"@timestamp":"2021-07-01T10:31:39.967+08","level":"slow","content":"[HTTP] 200 - /to_ken/dataByTime - 10.28.83.123:50777 - PostmanRuntime/7.26.8 - slowcall(9875.0ms)","trace":"41617a71de3e5dfe","span":"0"}

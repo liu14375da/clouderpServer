@@ -1,0 +1,708 @@
+{"@timestamp":"2021-06-30T17:57:15.399+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.8Mi, TotalAlloc=2.3Mi, Sys=17.1Mi, NumGC=1"}
+{"@timestamp":"2021-06-30T17:57:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.4Mi, TotalAlloc=2.6Mi, Sys=17.1Mi, NumGC=1"}
+{"@timestamp":"2021-06-30T17:58:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 174348.5ms, med: 344767.0ms, 90th: 344767.0ms, 99th: 344767.0ms, 99.9th: 344767.0ms"}
+{"@timestamp":"2021-06-30T17:58:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=3.3Mi, Sys=17.1Mi, NumGC=1"}
+{"@timestamp":"2021-06-30T17:59:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T17:59:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=4.0Mi, Sys=17.2Mi, NumGC=2"}
+{"@timestamp":"2021-06-30T18:00:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:00:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=4.7Mi, Sys=17.2Mi, NumGC=2"}
+{"@timestamp":"2021-06-30T18:01:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:01:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=5.4Mi, Sys=17.2Mi, NumGC=3"}
+{"@timestamp":"2021-06-30T18:02:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:02:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=6.1Mi, Sys=17.2Mi, NumGC=3"}
+{"@timestamp":"2021-06-30T18:03:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:03:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=6.8Mi, Sys=17.2Mi, NumGC=4"}
+{"@timestamp":"2021-06-30T18:04:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:04:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=7.4Mi, Sys=17.2Mi, NumGC=4"}
+{"@timestamp":"2021-06-30T18:05:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:05:28.441+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=8.1Mi, Sys=17.2Mi, NumGC=5"}
+{"@timestamp":"2021-06-30T18:06:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:06:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=8.7Mi, Sys=17.2Mi, NumGC=5"}
+{"@timestamp":"2021-06-30T18:07:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:07:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=9.5Mi, Sys=17.2Mi, NumGC=6"}
+{"@timestamp":"2021-06-30T18:08:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 2000.0ms, med: 2000.0ms, 90th: 2000.0ms, 99th: 2000.0ms, 99.9th: 2000.0ms"}
+{"@timestamp":"2021-06-30T18:08:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=10.2Mi, Sys=17.2Mi, NumGC=6"}
+{"@timestamp":"2021-06-30T18:09:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:09:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.1Mi, TotalAlloc=10.9Mi, Sys=17.2Mi, NumGC=7"}
+{"@timestamp":"2021-06-30T18:10:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:10:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.8Mi, TotalAlloc=11.6Mi, Sys=17.2Mi, NumGC=7"}
+{"@timestamp":"2021-06-30T18:11:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:11:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.1Mi, TotalAlloc=12.3Mi, Sys=17.2Mi, NumGC=8"}
+{"@timestamp":"2021-06-30T18:12:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:12:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=12.9Mi, Sys=17.2Mi, NumGC=8"}
+{"@timestamp":"2021-06-30T18:13:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:13:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.1Mi, TotalAlloc=13.6Mi, Sys=17.4Mi, NumGC=9"}
+{"@timestamp":"2021-06-30T18:14:15.402+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:14:28.440+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.8Mi, TotalAlloc=14.3Mi, Sys=17.4Mi, NumGC=9"}
+{"@timestamp":"2021-06-30T18:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=2.8Mi, Sys=12.7Mi, NumGC=1"}
+{"@timestamp":"2021-06-30T18:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 3560.0ms, med: 3560.0ms, 90th: 3560.0ms, 99th: 3560.0ms, 99.9th: 3560.0ms"}
+{"@timestamp":"2021-06-30T18:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=3.4Mi, Sys=12.7Mi, NumGC=1"}
+{"@timestamp":"2021-06-30T18:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=4.0Mi, Sys=12.8Mi, NumGC=2"}
+{"@timestamp":"2021-06-30T18:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=4.6Mi, Sys=12.8Mi, NumGC=2"}
+{"@timestamp":"2021-06-30T18:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=5.3Mi, Sys=12.8Mi, NumGC=3"}
+{"@timestamp":"2021-06-30T18:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=5.9Mi, Sys=12.8Mi, NumGC=3"}
+{"@timestamp":"2021-06-30T18:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=6.5Mi, Sys=12.8Mi, NumGC=4"}
+{"@timestamp":"2021-06-30T18:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:31:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=7.2Mi, Sys=12.8Mi, NumGC=4"}
+{"@timestamp":"2021-06-30T18:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=7.8Mi, Sys=12.8Mi, NumGC=5"}
+{"@timestamp":"2021-06-30T18:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:33:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=8.5Mi, Sys=12.8Mi, NumGC=5"}
+{"@timestamp":"2021-06-30T18:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=9.2Mi, Sys=12.8Mi, NumGC=6"}
+{"@timestamp":"2021-06-30T18:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=9.9Mi, Sys=12.8Mi, NumGC=6"}
+{"@timestamp":"2021-06-30T18:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=10.5Mi, Sys=12.8Mi, NumGC=7"}
+{"@timestamp":"2021-06-30T18:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=11.2Mi, Sys=12.8Mi, NumGC=7"}
+{"@timestamp":"2021-06-30T18:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=11.9Mi, Sys=12.8Mi, NumGC=8"}
+{"@timestamp":"2021-06-30T18:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=12.6Mi, Sys=12.8Mi, NumGC=8"}
+{"@timestamp":"2021-06-30T18:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=13.3Mi, Sys=12.8Mi, NumGC=9"}
+{"@timestamp":"2021-06-30T18:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=14.0Mi, Sys=12.8Mi, NumGC=9"}
+{"@timestamp":"2021-06-30T18:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=14.8Mi, Sys=12.8Mi, NumGC=10"}
+{"@timestamp":"2021-06-30T18:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=15.4Mi, Sys=12.8Mi, NumGC=10"}
+{"@timestamp":"2021-06-30T18:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=16.1Mi, Sys=12.8Mi, NumGC=11"}
+{"@timestamp":"2021-06-30T18:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=16.7Mi, Sys=12.8Mi, NumGC=11"}
+{"@timestamp":"2021-06-30T18:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=17.3Mi, Sys=12.8Mi, NumGC=12"}
+{"@timestamp":"2021-06-30T18:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=18.0Mi, Sys=12.8Mi, NumGC=12"}
+{"@timestamp":"2021-06-30T18:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=18.6Mi, Sys=12.8Mi, NumGC=13"}
+{"@timestamp":"2021-06-30T18:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=19.2Mi, Sys=12.8Mi, NumGC=13"}
+{"@timestamp":"2021-06-30T18:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=19.8Mi, Sys=12.8Mi, NumGC=14"}
+{"@timestamp":"2021-06-30T18:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=20.4Mi, Sys=12.8Mi, NumGC=14"}
+{"@timestamp":"2021-06-30T18:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=21.1Mi, Sys=12.8Mi, NumGC=15"}
+{"@timestamp":"2021-06-30T18:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=21.7Mi, Sys=12.8Mi, NumGC=15"}
+{"@timestamp":"2021-06-30T18:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=22.5Mi, Sys=12.8Mi, NumGC=16"}
+{"@timestamp":"2021-06-30T18:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=23.2Mi, Sys=12.8Mi, NumGC=16"}
+{"@timestamp":"2021-06-30T18:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=23.8Mi, Sys=12.8Mi, NumGC=17"}
+{"@timestamp":"2021-06-30T18:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=24.5Mi, Sys=12.8Mi, NumGC=17"}
+{"@timestamp":"2021-06-30T18:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=25.1Mi, Sys=12.8Mi, NumGC=18"}
+{"@timestamp":"2021-06-30T18:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T18:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=25.7Mi, Sys=12.8Mi, NumGC=18"}
+{"@timestamp":"2021-06-30T18:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:00:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=26.4Mi, Sys=12.8Mi, NumGC=19"}
+{"@timestamp":"2021-06-30T19:00:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:01:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=27.1Mi, Sys=12.8Mi, NumGC=19"}
+{"@timestamp":"2021-06-30T19:01:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:02:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=27.7Mi, Sys=12.8Mi, NumGC=20"}
+{"@timestamp":"2021-06-30T19:02:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:03:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=28.4Mi, Sys=12.8Mi, NumGC=20"}
+{"@timestamp":"2021-06-30T19:03:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:04:07.141+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=29.0Mi, Sys=12.8Mi, NumGC=21"}
+{"@timestamp":"2021-06-30T19:04:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:05:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=29.7Mi, Sys=12.8Mi, NumGC=21"}
+{"@timestamp":"2021-06-30T19:05:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:06:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=30.3Mi, Sys=12.8Mi, NumGC=22"}
+{"@timestamp":"2021-06-30T19:06:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:07:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=31.0Mi, Sys=12.8Mi, NumGC=22"}
+{"@timestamp":"2021-06-30T19:07:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:08:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=31.6Mi, Sys=12.8Mi, NumGC=23"}
+{"@timestamp":"2021-06-30T19:08:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:09:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=32.2Mi, Sys=12.8Mi, NumGC=23"}
+{"@timestamp":"2021-06-30T19:09:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:10:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=32.9Mi, Sys=12.8Mi, NumGC=24"}
+{"@timestamp":"2021-06-30T19:10:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:11:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=33.5Mi, Sys=12.8Mi, NumGC=24"}
+{"@timestamp":"2021-06-30T19:11:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:12:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=34.2Mi, Sys=12.8Mi, NumGC=25"}
+{"@timestamp":"2021-06-30T19:12:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:13:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=34.8Mi, Sys=12.8Mi, NumGC=25"}
+{"@timestamp":"2021-06-30T19:13:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:14:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=35.5Mi, Sys=12.8Mi, NumGC=26"}
+{"@timestamp":"2021-06-30T19:14:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:15:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=36.1Mi, Sys=12.8Mi, NumGC=26"}
+{"@timestamp":"2021-06-30T19:15:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:16:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=36.8Mi, Sys=12.8Mi, NumGC=27"}
+{"@timestamp":"2021-06-30T19:16:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:17:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=37.4Mi, Sys=12.8Mi, NumGC=27"}
+{"@timestamp":"2021-06-30T19:17:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:18:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=38.1Mi, Sys=16.9Mi, NumGC=28"}
+{"@timestamp":"2021-06-30T19:18:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:19:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=38.7Mi, Sys=16.9Mi, NumGC=28"}
+{"@timestamp":"2021-06-30T19:19:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:20:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=39.4Mi, Sys=16.9Mi, NumGC=29"}
+{"@timestamp":"2021-06-30T19:20:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:21:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=40.0Mi, Sys=16.9Mi, NumGC=29"}
+{"@timestamp":"2021-06-30T19:21:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:22:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=40.7Mi, Sys=16.9Mi, NumGC=30"}
+{"@timestamp":"2021-06-30T19:22:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:23:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=41.3Mi, Sys=16.9Mi, NumGC=30"}
+{"@timestamp":"2021-06-30T19:23:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=42.1Mi, Sys=16.9Mi, NumGC=31"}
+{"@timestamp":"2021-06-30T19:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=42.8Mi, Sys=16.9Mi, NumGC=31"}
+{"@timestamp":"2021-06-30T19:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=43.5Mi, Sys=16.9Mi, NumGC=32"}
+{"@timestamp":"2021-06-30T19:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=44.1Mi, Sys=16.9Mi, NumGC=32"}
+{"@timestamp":"2021-06-30T19:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=44.8Mi, Sys=16.9Mi, NumGC=33"}
+{"@timestamp":"2021-06-30T19:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=45.4Mi, Sys=16.9Mi, NumGC=33"}
+{"@timestamp":"2021-06-30T19:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=46.1Mi, Sys=16.9Mi, NumGC=34"}
+{"@timestamp":"2021-06-30T19:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:31:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=46.8Mi, Sys=16.9Mi, NumGC=34"}
+{"@timestamp":"2021-06-30T19:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=47.5Mi, Sys=16.9Mi, NumGC=35"}
+{"@timestamp":"2021-06-30T19:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:33:07.140+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=48.2Mi, Sys=16.9Mi, NumGC=35"}
+{"@timestamp":"2021-06-30T19:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=48.8Mi, Sys=16.9Mi, NumGC=36"}
+{"@timestamp":"2021-06-30T19:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=49.5Mi, Sys=16.9Mi, NumGC=36"}
+{"@timestamp":"2021-06-30T19:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=50.1Mi, Sys=16.9Mi, NumGC=37"}
+{"@timestamp":"2021-06-30T19:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=50.7Mi, Sys=16.9Mi, NumGC=37"}
+{"@timestamp":"2021-06-30T19:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=51.4Mi, Sys=16.9Mi, NumGC=38"}
+{"@timestamp":"2021-06-30T19:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=52.0Mi, Sys=16.9Mi, NumGC=38"}
+{"@timestamp":"2021-06-30T19:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=52.6Mi, Sys=16.9Mi, NumGC=39"}
+{"@timestamp":"2021-06-30T19:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=53.3Mi, Sys=16.9Mi, NumGC=39"}
+{"@timestamp":"2021-06-30T19:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=53.9Mi, Sys=16.9Mi, NumGC=40"}
+{"@timestamp":"2021-06-30T19:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=54.6Mi, Sys=16.9Mi, NumGC=40"}
+{"@timestamp":"2021-06-30T19:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=55.2Mi, Sys=16.9Mi, NumGC=41"}
+{"@timestamp":"2021-06-30T19:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=55.8Mi, Sys=16.9Mi, NumGC=41"}
+{"@timestamp":"2021-06-30T19:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=56.5Mi, Sys=16.9Mi, NumGC=42"}
+{"@timestamp":"2021-06-30T19:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=57.2Mi, Sys=16.9Mi, NumGC=42"}
+{"@timestamp":"2021-06-30T19:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=57.8Mi, Sys=16.9Mi, NumGC=43"}
+{"@timestamp":"2021-06-30T19:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=58.4Mi, Sys=16.9Mi, NumGC=43"}
+{"@timestamp":"2021-06-30T19:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=59.1Mi, Sys=16.9Mi, NumGC=44"}
+{"@timestamp":"2021-06-30T19:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=59.8Mi, Sys=16.9Mi, NumGC=44"}
+{"@timestamp":"2021-06-30T19:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=60.4Mi, Sys=16.9Mi, NumGC=45"}
+{"@timestamp":"2021-06-30T19:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=61.0Mi, Sys=16.9Mi, NumGC=45"}
+{"@timestamp":"2021-06-30T19:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=61.7Mi, Sys=16.9Mi, NumGC=46"}
+{"@timestamp":"2021-06-30T19:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=62.5Mi, Sys=16.9Mi, NumGC=46"}
+{"@timestamp":"2021-06-30T19:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=63.1Mi, Sys=16.9Mi, NumGC=47"}
+{"@timestamp":"2021-06-30T19:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=63.8Mi, Sys=16.9Mi, NumGC=47"}
+{"@timestamp":"2021-06-30T19:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=64.4Mi, Sys=16.9Mi, NumGC=48"}
+{"@timestamp":"2021-06-30T19:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T19:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=65.1Mi, Sys=16.9Mi, NumGC=48"}
+{"@timestamp":"2021-06-30T19:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:00:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=65.8Mi, Sys=16.9Mi, NumGC=49"}
+{"@timestamp":"2021-06-30T20:00:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:01:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=66.4Mi, Sys=16.9Mi, NumGC=49"}
+{"@timestamp":"2021-06-30T20:01:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:02:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=67.1Mi, Sys=16.9Mi, NumGC=50"}
+{"@timestamp":"2021-06-30T20:02:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:03:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=67.7Mi, Sys=16.9Mi, NumGC=50"}
+{"@timestamp":"2021-06-30T20:03:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:04:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=68.4Mi, Sys=16.9Mi, NumGC=51"}
+{"@timestamp":"2021-06-30T20:04:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:05:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=69.0Mi, Sys=16.9Mi, NumGC=51"}
+{"@timestamp":"2021-06-30T20:05:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:06:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=69.7Mi, Sys=16.9Mi, NumGC=52"}
+{"@timestamp":"2021-06-30T20:06:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:07:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=70.3Mi, Sys=16.9Mi, NumGC=52"}
+{"@timestamp":"2021-06-30T20:07:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:08:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=71.0Mi, Sys=16.9Mi, NumGC=53"}
+{"@timestamp":"2021-06-30T20:08:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:09:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=71.6Mi, Sys=16.9Mi, NumGC=53"}
+{"@timestamp":"2021-06-30T20:09:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:10:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=72.3Mi, Sys=16.9Mi, NumGC=54"}
+{"@timestamp":"2021-06-30T20:10:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:11:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=72.9Mi, Sys=16.9Mi, NumGC=54"}
+{"@timestamp":"2021-06-30T20:11:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:12:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=73.6Mi, Sys=16.9Mi, NumGC=55"}
+{"@timestamp":"2021-06-30T20:12:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:13:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=74.2Mi, Sys=16.9Mi, NumGC=55"}
+{"@timestamp":"2021-06-30T20:13:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:14:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=74.9Mi, Sys=16.9Mi, NumGC=56"}
+{"@timestamp":"2021-06-30T20:14:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:15:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=75.6Mi, Sys=16.9Mi, NumGC=56"}
+{"@timestamp":"2021-06-30T20:15:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:16:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=76.3Mi, Sys=17.2Mi, NumGC=57"}
+{"@timestamp":"2021-06-30T20:16:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:17:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=76.9Mi, Sys=17.2Mi, NumGC=57"}
+{"@timestamp":"2021-06-30T20:17:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:18:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=77.6Mi, Sys=17.2Mi, NumGC=58"}
+{"@timestamp":"2021-06-30T20:18:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:19:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=78.2Mi, Sys=17.2Mi, NumGC=58"}
+{"@timestamp":"2021-06-30T20:19:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:20:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=78.9Mi, Sys=17.2Mi, NumGC=59"}
+{"@timestamp":"2021-06-30T20:20:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:21:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=79.6Mi, Sys=17.2Mi, NumGC=59"}
+{"@timestamp":"2021-06-30T20:21:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:22:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=80.2Mi, Sys=17.2Mi, NumGC=60"}
+{"@timestamp":"2021-06-30T20:22:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:23:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=80.9Mi, Sys=17.2Mi, NumGC=60"}
+{"@timestamp":"2021-06-30T20:23:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=81.5Mi, Sys=17.2Mi, NumGC=61"}
+{"@timestamp":"2021-06-30T20:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=82.3Mi, Sys=17.2Mi, NumGC=61"}
+{"@timestamp":"2021-06-30T20:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=83.0Mi, Sys=17.2Mi, NumGC=62"}
+{"@timestamp":"2021-06-30T20:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=83.6Mi, Sys=17.2Mi, NumGC=62"}
+{"@timestamp":"2021-06-30T20:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=84.3Mi, Sys=17.2Mi, NumGC=63"}
+{"@timestamp":"2021-06-30T20:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=85.0Mi, Sys=17.2Mi, NumGC=63"}
+{"@timestamp":"2021-06-30T20:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=85.6Mi, Sys=17.2Mi, NumGC=64"}
+{"@timestamp":"2021-06-30T20:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:31:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=86.3Mi, Sys=17.2Mi, NumGC=64"}
+{"@timestamp":"2021-06-30T20:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=86.9Mi, Sys=17.2Mi, NumGC=65"}
+{"@timestamp":"2021-06-30T20:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:33:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=87.6Mi, Sys=17.2Mi, NumGC=65"}
+{"@timestamp":"2021-06-30T20:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=88.2Mi, Sys=17.2Mi, NumGC=66"}
+{"@timestamp":"2021-06-30T20:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=88.9Mi, Sys=17.2Mi, NumGC=66"}
+{"@timestamp":"2021-06-30T20:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=89.5Mi, Sys=17.2Mi, NumGC=67"}
+{"@timestamp":"2021-06-30T20:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=90.2Mi, Sys=17.2Mi, NumGC=67"}
+{"@timestamp":"2021-06-30T20:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=90.8Mi, Sys=17.2Mi, NumGC=68"}
+{"@timestamp":"2021-06-30T20:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=91.4Mi, Sys=17.2Mi, NumGC=68"}
+{"@timestamp":"2021-06-30T20:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=92.1Mi, Sys=17.2Mi, NumGC=69"}
+{"@timestamp":"2021-06-30T20:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=92.7Mi, Sys=17.2Mi, NumGC=69"}
+{"@timestamp":"2021-06-30T20:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=93.3Mi, Sys=17.2Mi, NumGC=70"}
+{"@timestamp":"2021-06-30T20:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=93.9Mi, Sys=17.2Mi, NumGC=70"}
+{"@timestamp":"2021-06-30T20:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=94.5Mi, Sys=17.2Mi, NumGC=71"}
+{"@timestamp":"2021-06-30T20:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=95.1Mi, Sys=17.2Mi, NumGC=71"}
+{"@timestamp":"2021-06-30T20:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=95.7Mi, Sys=17.2Mi, NumGC=72"}
+{"@timestamp":"2021-06-30T20:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=96.3Mi, Sys=17.2Mi, NumGC=72"}
+{"@timestamp":"2021-06-30T20:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=96.9Mi, Sys=17.2Mi, NumGC=73"}
+{"@timestamp":"2021-06-30T20:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=97.5Mi, Sys=17.2Mi, NumGC=73"}
+{"@timestamp":"2021-06-30T20:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=98.1Mi, Sys=17.2Mi, NumGC=74"}
+{"@timestamp":"2021-06-30T20:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=98.7Mi, Sys=17.2Mi, NumGC=74"}
+{"@timestamp":"2021-06-30T20:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=99.3Mi, Sys=17.2Mi, NumGC=75"}
+{"@timestamp":"2021-06-30T20:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=99.9Mi, Sys=17.2Mi, NumGC=75"}
+{"@timestamp":"2021-06-30T20:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=100.5Mi, Sys=17.2Mi, NumGC=76"}
+{"@timestamp":"2021-06-30T20:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=101.2Mi, Sys=17.2Mi, NumGC=76"}
+{"@timestamp":"2021-06-30T20:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=101.8Mi, Sys=17.2Mi, NumGC=77"}
+{"@timestamp":"2021-06-30T20:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=102.4Mi, Sys=17.2Mi, NumGC=77"}
+{"@timestamp":"2021-06-30T20:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=103.0Mi, Sys=17.2Mi, NumGC=78"}
+{"@timestamp":"2021-06-30T20:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T20:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=103.6Mi, Sys=17.2Mi, NumGC=78"}
+{"@timestamp":"2021-06-30T20:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:00:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=104.2Mi, Sys=17.2Mi, NumGC=79"}
+{"@timestamp":"2021-06-30T21:00:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:01:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=104.8Mi, Sys=17.2Mi, NumGC=79"}
+{"@timestamp":"2021-06-30T21:01:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:02:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=105.4Mi, Sys=17.2Mi, NumGC=80"}
+{"@timestamp":"2021-06-30T21:02:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:03:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=106.0Mi, Sys=17.2Mi, NumGC=80"}
+{"@timestamp":"2021-06-30T21:03:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:04:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=106.6Mi, Sys=17.2Mi, NumGC=81"}
+{"@timestamp":"2021-06-30T21:04:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:05:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=107.2Mi, Sys=17.2Mi, NumGC=81"}
+{"@timestamp":"2021-06-30T21:05:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:06:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=107.8Mi, Sys=17.2Mi, NumGC=82"}
+{"@timestamp":"2021-06-30T21:06:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:07:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=108.4Mi, Sys=17.2Mi, NumGC=82"}
+{"@timestamp":"2021-06-30T21:07:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:08:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=109.0Mi, Sys=17.2Mi, NumGC=83"}
+{"@timestamp":"2021-06-30T21:08:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:09:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=109.7Mi, Sys=17.2Mi, NumGC=83"}
+{"@timestamp":"2021-06-30T21:09:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:10:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=110.3Mi, Sys=17.2Mi, NumGC=84"}
+{"@timestamp":"2021-06-30T21:10:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:11:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=110.8Mi, Sys=17.2Mi, NumGC=84"}
+{"@timestamp":"2021-06-30T21:11:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:12:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=111.5Mi, Sys=17.2Mi, NumGC=85"}
+{"@timestamp":"2021-06-30T21:12:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:13:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=112.1Mi, Sys=17.2Mi, NumGC=85"}
+{"@timestamp":"2021-06-30T21:13:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:14:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=112.7Mi, Sys=17.2Mi, NumGC=86"}
+{"@timestamp":"2021-06-30T21:14:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:15:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=113.3Mi, Sys=17.2Mi, NumGC=86"}
+{"@timestamp":"2021-06-30T21:15:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:16:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=113.9Mi, Sys=17.2Mi, NumGC=87"}
+{"@timestamp":"2021-06-30T21:16:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:17:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=114.5Mi, Sys=17.2Mi, NumGC=87"}
+{"@timestamp":"2021-06-30T21:17:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:18:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=115.2Mi, Sys=17.2Mi, NumGC=88"}
+{"@timestamp":"2021-06-30T21:18:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:19:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=115.7Mi, Sys=17.2Mi, NumGC=88"}
+{"@timestamp":"2021-06-30T21:19:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:20:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=116.3Mi, Sys=17.2Mi, NumGC=89"}
+{"@timestamp":"2021-06-30T21:20:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:21:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=116.9Mi, Sys=17.2Mi, NumGC=89"}
+{"@timestamp":"2021-06-30T21:21:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:22:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=117.5Mi, Sys=17.2Mi, NumGC=90"}
+{"@timestamp":"2021-06-30T21:22:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:23:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=118.2Mi, Sys=17.2Mi, NumGC=90"}
+{"@timestamp":"2021-06-30T21:23:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=118.8Mi, Sys=17.2Mi, NumGC=91"}
+{"@timestamp":"2021-06-30T21:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=119.4Mi, Sys=17.2Mi, NumGC=91"}
+{"@timestamp":"2021-06-30T21:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=120.1Mi, Sys=17.2Mi, NumGC=92"}
+{"@timestamp":"2021-06-30T21:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=120.7Mi, Sys=17.2Mi, NumGC=92"}
+{"@timestamp":"2021-06-30T21:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=121.3Mi, Sys=17.2Mi, NumGC=93"}
+{"@timestamp":"2021-06-30T21:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=121.9Mi, Sys=17.2Mi, NumGC=93"}
+{"@timestamp":"2021-06-30T21:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=122.5Mi, Sys=17.2Mi, NumGC=94"}
+{"@timestamp":"2021-06-30T21:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:31:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=123.1Mi, Sys=17.2Mi, NumGC=94"}
+{"@timestamp":"2021-06-30T21:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=123.8Mi, Sys=17.2Mi, NumGC=95"}
+{"@timestamp":"2021-06-30T21:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:33:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=124.4Mi, Sys=17.2Mi, NumGC=95"}
+{"@timestamp":"2021-06-30T21:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=125.0Mi, Sys=17.2Mi, NumGC=96"}
+{"@timestamp":"2021-06-30T21:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=125.6Mi, Sys=17.2Mi, NumGC=96"}
+{"@timestamp":"2021-06-30T21:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=126.2Mi, Sys=17.2Mi, NumGC=97"}
+{"@timestamp":"2021-06-30T21:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=126.9Mi, Sys=17.2Mi, NumGC=97"}
+{"@timestamp":"2021-06-30T21:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=127.5Mi, Sys=17.2Mi, NumGC=98"}
+{"@timestamp":"2021-06-30T21:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=128.1Mi, Sys=17.2Mi, NumGC=98"}
+{"@timestamp":"2021-06-30T21:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=128.7Mi, Sys=17.2Mi, NumGC=99"}
+{"@timestamp":"2021-06-30T21:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=129.4Mi, Sys=17.2Mi, NumGC=99"}
+{"@timestamp":"2021-06-30T21:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=130.0Mi, Sys=17.2Mi, NumGC=100"}
+{"@timestamp":"2021-06-30T21:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=130.7Mi, Sys=17.2Mi, NumGC=100"}
+{"@timestamp":"2021-06-30T21:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=131.3Mi, Sys=17.2Mi, NumGC=101"}
+{"@timestamp":"2021-06-30T21:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=132.0Mi, Sys=17.2Mi, NumGC=101"}
+{"@timestamp":"2021-06-30T21:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=132.6Mi, Sys=17.2Mi, NumGC=102"}
+{"@timestamp":"2021-06-30T21:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=133.3Mi, Sys=17.2Mi, NumGC=102"}
+{"@timestamp":"2021-06-30T21:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=133.9Mi, Sys=17.2Mi, NumGC=103"}
+{"@timestamp":"2021-06-30T21:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=134.5Mi, Sys=17.2Mi, NumGC=103"}
+{"@timestamp":"2021-06-30T21:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=135.2Mi, Sys=17.2Mi, NumGC=104"}
+{"@timestamp":"2021-06-30T21:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=135.9Mi, Sys=17.2Mi, NumGC=104"}
+{"@timestamp":"2021-06-30T21:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=136.5Mi, Sys=17.2Mi, NumGC=105"}
+{"@timestamp":"2021-06-30T21:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=137.2Mi, Sys=17.2Mi, NumGC=105"}
+{"@timestamp":"2021-06-30T21:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=137.8Mi, Sys=17.2Mi, NumGC=106"}
+{"@timestamp":"2021-06-30T21:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=138.4Mi, Sys=17.2Mi, NumGC=106"}
+{"@timestamp":"2021-06-30T21:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=139.2Mi, Sys=17.2Mi, NumGC=107"}
+{"@timestamp":"2021-06-30T21:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=139.8Mi, Sys=17.2Mi, NumGC=107"}
+{"@timestamp":"2021-06-30T21:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=140.5Mi, Sys=17.2Mi, NumGC=108"}
+{"@timestamp":"2021-06-30T21:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T21:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=141.1Mi, Sys=17.2Mi, NumGC=108"}
+{"@timestamp":"2021-06-30T21:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:00:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=141.8Mi, Sys=17.2Mi, NumGC=109"}
+{"@timestamp":"2021-06-30T22:00:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:01:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=142.5Mi, Sys=17.2Mi, NumGC=109"}
+{"@timestamp":"2021-06-30T22:01:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:02:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=143.1Mi, Sys=17.2Mi, NumGC=110"}
+{"@timestamp":"2021-06-30T22:02:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:03:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=143.7Mi, Sys=17.2Mi, NumGC=110"}
+{"@timestamp":"2021-06-30T22:03:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:04:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=144.4Mi, Sys=17.2Mi, NumGC=111"}
+{"@timestamp":"2021-06-30T22:04:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:05:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=145.0Mi, Sys=17.2Mi, NumGC=111"}
+{"@timestamp":"2021-06-30T22:05:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:06:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=145.7Mi, Sys=17.2Mi, NumGC=112"}
+{"@timestamp":"2021-06-30T22:06:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:07:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=146.4Mi, Sys=17.2Mi, NumGC=112"}
+{"@timestamp":"2021-06-30T22:07:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:08:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=147.0Mi, Sys=17.2Mi, NumGC=113"}
+{"@timestamp":"2021-06-30T22:08:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:09:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=147.7Mi, Sys=17.2Mi, NumGC=113"}
+{"@timestamp":"2021-06-30T22:09:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:10:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=148.3Mi, Sys=17.2Mi, NumGC=114"}
+{"@timestamp":"2021-06-30T22:10:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:11:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=148.9Mi, Sys=17.2Mi, NumGC=114"}
+{"@timestamp":"2021-06-30T22:11:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:12:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=149.6Mi, Sys=17.2Mi, NumGC=115"}
+{"@timestamp":"2021-06-30T22:12:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:13:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=150.2Mi, Sys=17.2Mi, NumGC=115"}
+{"@timestamp":"2021-06-30T22:13:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:14:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=150.8Mi, Sys=17.2Mi, NumGC=116"}
+{"@timestamp":"2021-06-30T22:14:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:15:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=151.4Mi, Sys=17.2Mi, NumGC=116"}
+{"@timestamp":"2021-06-30T22:15:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:16:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=152.1Mi, Sys=17.2Mi, NumGC=117"}
+{"@timestamp":"2021-06-30T22:16:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:17:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=152.7Mi, Sys=17.2Mi, NumGC=117"}
+{"@timestamp":"2021-06-30T22:17:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:18:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=153.3Mi, Sys=17.2Mi, NumGC=118"}
+{"@timestamp":"2021-06-30T22:18:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:19:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=153.9Mi, Sys=17.2Mi, NumGC=118"}
+{"@timestamp":"2021-06-30T22:19:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:20:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=154.4Mi, Sys=17.2Mi, NumGC=119"}
+{"@timestamp":"2021-06-30T22:20:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:21:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=155.0Mi, Sys=17.2Mi, NumGC=119"}
+{"@timestamp":"2021-06-30T22:21:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:22:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=155.6Mi, Sys=17.2Mi, NumGC=120"}
+{"@timestamp":"2021-06-30T22:22:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:23:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=156.2Mi, Sys=17.2Mi, NumGC=120"}
+{"@timestamp":"2021-06-30T22:23:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=156.8Mi, Sys=17.2Mi, NumGC=121"}
+{"@timestamp":"2021-06-30T22:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=157.4Mi, Sys=17.2Mi, NumGC=121"}
+{"@timestamp":"2021-06-30T22:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=158.1Mi, Sys=17.2Mi, NumGC=122"}
+{"@timestamp":"2021-06-30T22:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=158.7Mi, Sys=17.2Mi, NumGC=122"}
+{"@timestamp":"2021-06-30T22:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=159.4Mi, Sys=17.2Mi, NumGC=123"}
+{"@timestamp":"2021-06-30T22:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=160.0Mi, Sys=17.2Mi, NumGC=123"}
+{"@timestamp":"2021-06-30T22:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=160.6Mi, Sys=17.2Mi, NumGC=124"}
+{"@timestamp":"2021-06-30T22:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:31:07.142+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=161.3Mi, Sys=17.2Mi, NumGC=124"}
+{"@timestamp":"2021-06-30T22:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=161.9Mi, Sys=17.2Mi, NumGC=125"}
+{"@timestamp":"2021-06-30T22:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:33:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=162.6Mi, Sys=17.2Mi, NumGC=125"}
+{"@timestamp":"2021-06-30T22:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=163.2Mi, Sys=17.2Mi, NumGC=126"}
+{"@timestamp":"2021-06-30T22:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=163.9Mi, Sys=17.2Mi, NumGC=126"}
+{"@timestamp":"2021-06-30T22:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=164.6Mi, Sys=17.2Mi, NumGC=127"}
+{"@timestamp":"2021-06-30T22:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=165.2Mi, Sys=17.2Mi, NumGC=127"}
+{"@timestamp":"2021-06-30T22:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=165.9Mi, Sys=17.2Mi, NumGC=128"}
+{"@timestamp":"2021-06-30T22:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=166.5Mi, Sys=17.2Mi, NumGC=128"}
+{"@timestamp":"2021-06-30T22:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=167.1Mi, Sys=17.2Mi, NumGC=129"}
+{"@timestamp":"2021-06-30T22:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=167.7Mi, Sys=17.2Mi, NumGC=129"}
+{"@timestamp":"2021-06-30T22:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=168.3Mi, Sys=17.2Mi, NumGC=130"}
+{"@timestamp":"2021-06-30T22:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=169.0Mi, Sys=17.2Mi, NumGC=130"}
+{"@timestamp":"2021-06-30T22:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=169.6Mi, Sys=17.2Mi, NumGC=131"}
+{"@timestamp":"2021-06-30T22:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=170.2Mi, Sys=17.2Mi, NumGC=131"}
+{"@timestamp":"2021-06-30T22:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=170.9Mi, Sys=17.2Mi, NumGC=132"}
+{"@timestamp":"2021-06-30T22:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=171.5Mi, Sys=17.2Mi, NumGC=132"}
+{"@timestamp":"2021-06-30T22:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=172.2Mi, Sys=17.2Mi, NumGC=133"}
+{"@timestamp":"2021-06-30T22:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=172.8Mi, Sys=17.2Mi, NumGC=133"}
+{"@timestamp":"2021-06-30T22:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=173.5Mi, Sys=17.2Mi, NumGC=134"}
+{"@timestamp":"2021-06-30T22:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=174.1Mi, Sys=17.2Mi, NumGC=134"}
+{"@timestamp":"2021-06-30T22:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=174.8Mi, Sys=17.2Mi, NumGC=135"}
+{"@timestamp":"2021-06-30T22:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=175.4Mi, Sys=17.2Mi, NumGC=135"}
+{"@timestamp":"2021-06-30T22:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=176.0Mi, Sys=17.2Mi, NumGC=136"}
+{"@timestamp":"2021-06-30T22:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=176.6Mi, Sys=17.2Mi, NumGC=136"}
+{"@timestamp":"2021-06-30T22:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=177.3Mi, Sys=17.2Mi, NumGC=137"}
+{"@timestamp":"2021-06-30T22:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=178.0Mi, Sys=17.2Mi, NumGC=137"}
+{"@timestamp":"2021-06-30T22:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=178.7Mi, Sys=17.2Mi, NumGC=138"}
+{"@timestamp":"2021-06-30T22:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T22:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=179.3Mi, Sys=17.2Mi, NumGC=138"}
+{"@timestamp":"2021-06-30T22:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:00:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=180.0Mi, Sys=17.2Mi, NumGC=139"}
+{"@timestamp":"2021-06-30T23:00:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:01:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=180.6Mi, Sys=17.2Mi, NumGC=139"}
+{"@timestamp":"2021-06-30T23:01:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:02:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=181.2Mi, Sys=17.2Mi, NumGC=140"}
+{"@timestamp":"2021-06-30T23:02:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:03:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=181.9Mi, Sys=17.2Mi, NumGC=140"}
+{"@timestamp":"2021-06-30T23:03:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:04:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=182.5Mi, Sys=17.2Mi, NumGC=141"}
+{"@timestamp":"2021-06-30T23:04:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:05:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=183.2Mi, Sys=17.2Mi, NumGC=141"}
+{"@timestamp":"2021-06-30T23:05:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:06:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=183.8Mi, Sys=17.2Mi, NumGC=142"}
+{"@timestamp":"2021-06-30T23:06:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:07:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=184.5Mi, Sys=17.2Mi, NumGC=142"}
+{"@timestamp":"2021-06-30T23:07:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:08:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=185.1Mi, Sys=17.2Mi, NumGC=143"}
+{"@timestamp":"2021-06-30T23:08:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:09:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=185.7Mi, Sys=17.2Mi, NumGC=143"}
+{"@timestamp":"2021-06-30T23:09:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:10:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=186.3Mi, Sys=17.2Mi, NumGC=144"}
+{"@timestamp":"2021-06-30T23:10:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:11:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=186.9Mi, Sys=17.2Mi, NumGC=144"}
+{"@timestamp":"2021-06-30T23:11:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:12:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=187.5Mi, Sys=17.2Mi, NumGC=145"}
+{"@timestamp":"2021-06-30T23:12:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:13:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=188.1Mi, Sys=17.2Mi, NumGC=145"}
+{"@timestamp":"2021-06-30T23:13:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:14:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=188.7Mi, Sys=17.2Mi, NumGC=146"}
+{"@timestamp":"2021-06-30T23:14:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:15:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=189.3Mi, Sys=17.2Mi, NumGC=146"}
+{"@timestamp":"2021-06-30T23:15:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:16:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=189.9Mi, Sys=17.2Mi, NumGC=147"}
+{"@timestamp":"2021-06-30T23:16:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:17:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=190.5Mi, Sys=17.2Mi, NumGC=147"}
+{"@timestamp":"2021-06-30T23:17:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:18:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=191.2Mi, Sys=17.2Mi, NumGC=148"}
+{"@timestamp":"2021-06-30T23:18:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:19:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=191.8Mi, Sys=17.2Mi, NumGC=148"}
+{"@timestamp":"2021-06-30T23:19:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:20:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.7Mi, TotalAlloc=192.5Mi, Sys=17.2Mi, NumGC=149"}
+{"@timestamp":"2021-06-30T23:20:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:21:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=193.1Mi, Sys=17.2Mi, NumGC=149"}
+{"@timestamp":"2021-06-30T23:21:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:22:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=193.8Mi, Sys=17.2Mi, NumGC=150"}
+{"@timestamp":"2021-06-30T23:22:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:23:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=194.4Mi, Sys=17.2Mi, NumGC=150"}
+{"@timestamp":"2021-06-30T23:23:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:24:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=195.0Mi, Sys=17.2Mi, NumGC=151"}
+{"@timestamp":"2021-06-30T23:24:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:25:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=195.7Mi, Sys=17.2Mi, NumGC=151"}
+{"@timestamp":"2021-06-30T23:25:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:26:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=196.3Mi, Sys=17.2Mi, NumGC=152"}
+{"@timestamp":"2021-06-30T23:26:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:27:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=197.0Mi, Sys=17.2Mi, NumGC=152"}
+{"@timestamp":"2021-06-30T23:27:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:28:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=197.7Mi, Sys=17.2Mi, NumGC=153"}
+{"@timestamp":"2021-06-30T23:28:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:29:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=198.3Mi, Sys=17.2Mi, NumGC=153"}
+{"@timestamp":"2021-06-30T23:29:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:30:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=198.9Mi, Sys=17.2Mi, NumGC=154"}
+{"@timestamp":"2021-06-30T23:30:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:31:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=199.5Mi, Sys=17.2Mi, NumGC=154"}
+{"@timestamp":"2021-06-30T23:31:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:32:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=200.1Mi, Sys=17.2Mi, NumGC=155"}
+{"@timestamp":"2021-06-30T23:32:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:33:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=200.7Mi, Sys=17.2Mi, NumGC=155"}
+{"@timestamp":"2021-06-30T23:33:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:34:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=201.3Mi, Sys=17.2Mi, NumGC=156"}
+{"@timestamp":"2021-06-30T23:34:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:35:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=201.9Mi, Sys=17.2Mi, NumGC=156"}
+{"@timestamp":"2021-06-30T23:35:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:36:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=202.5Mi, Sys=17.2Mi, NumGC=157"}
+{"@timestamp":"2021-06-30T23:36:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:37:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=203.1Mi, Sys=17.2Mi, NumGC=157"}
+{"@timestamp":"2021-06-30T23:37:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:38:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=203.7Mi, Sys=17.2Mi, NumGC=158"}
+{"@timestamp":"2021-06-30T23:38:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:39:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=204.2Mi, Sys=17.2Mi, NumGC=158"}
+{"@timestamp":"2021-06-30T23:39:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:40:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=204.8Mi, Sys=17.2Mi, NumGC=159"}
+{"@timestamp":"2021-06-30T23:40:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:41:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=205.4Mi, Sys=17.2Mi, NumGC=159"}
+{"@timestamp":"2021-06-30T23:41:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:42:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=206.0Mi, Sys=17.2Mi, NumGC=160"}
+{"@timestamp":"2021-06-30T23:42:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:43:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=206.6Mi, Sys=17.2Mi, NumGC=160"}
+{"@timestamp":"2021-06-30T23:43:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:44:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=207.2Mi, Sys=17.2Mi, NumGC=161"}
+{"@timestamp":"2021-06-30T23:44:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:45:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=207.8Mi, Sys=17.2Mi, NumGC=161"}
+{"@timestamp":"2021-06-30T23:45:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:46:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=208.4Mi, Sys=17.2Mi, NumGC=162"}
+{"@timestamp":"2021-06-30T23:46:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:47:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=209.0Mi, Sys=17.2Mi, NumGC=162"}
+{"@timestamp":"2021-06-30T23:47:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:48:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=209.6Mi, Sys=17.2Mi, NumGC=163"}
+{"@timestamp":"2021-06-30T23:48:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:49:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=210.2Mi, Sys=17.2Mi, NumGC=163"}
+{"@timestamp":"2021-06-30T23:49:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:50:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=210.9Mi, Sys=17.2Mi, NumGC=164"}
+{"@timestamp":"2021-06-30T23:50:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:51:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=211.5Mi, Sys=17.2Mi, NumGC=164"}
+{"@timestamp":"2021-06-30T23:51:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:52:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=212.1Mi, Sys=17.2Mi, NumGC=165"}
+{"@timestamp":"2021-06-30T23:52:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:53:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=212.7Mi, Sys=17.2Mi, NumGC=165"}
+{"@timestamp":"2021-06-30T23:53:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:54:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=213.3Mi, Sys=17.2Mi, NumGC=166"}
+{"@timestamp":"2021-06-30T23:54:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:55:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=213.9Mi, Sys=17.2Mi, NumGC=166"}
+{"@timestamp":"2021-06-30T23:55:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:56:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.5Mi, TotalAlloc=214.5Mi, Sys=17.2Mi, NumGC=167"}
+{"@timestamp":"2021-06-30T23:56:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:57:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=215.2Mi, Sys=17.2Mi, NumGC=167"}
+{"@timestamp":"2021-06-30T23:57:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:58:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=215.9Mi, Sys=17.2Mi, NumGC=168"}
+{"@timestamp":"2021-06-30T23:58:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}
+{"@timestamp":"2021-06-30T23:59:07.139+08","level":"stat","content":"CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=216.5Mi, Sys=17.2Mi, NumGC=168"}
+{"@timestamp":"2021-06-30T23:59:12.607+08","level":"stat","content":"(authToken-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms"}

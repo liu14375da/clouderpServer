@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e904ed-aab5-4b56-ab69-40fb8e39b597" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log-2021-07-23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log-2021-07-25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/unifiedLogin/internal/handler/config/configFile.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/unifiedLogin/internal/handler/refreshToekn_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api/unifiedLogin/internal/handler/unifiedLogin_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rpc/qyWxBinDing/wenxin_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rpc/unifiedLogin/login_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/authToken/internal/handler/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/Api/authToken/internal/handler/routes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/authToken/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/Api/authToken/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/authToken/logs/slow.log" beforeDir="false" afterPath="$PROJECT_DIR$/Api/authToken/logs/slow.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/authToken/logs/stat.log" beforeDir="false" afterPath="$PROJECT_DIR$/Api/authToken/logs/stat.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/qyWxBinDing/internal/handler/qywxbindinghandler.go" beforeDir="false" afterPath="$PROJECT_DIR$/Api/qyWxBinDing/internal/handler/qywxbindinghandler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/qyWxBinDing/internal/logic/qywx/requestInterface.go" beforeDir="false" afterPath="$PROJECT_DIR$/Api/qyWxBinDing/internal/logic/qywx/requestInterface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/qyWxBinDing/internal/logic/qywxbindinglogic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Api/qyWxBinDing/internal/logic/qywxbindinglogic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/unifiedLogin/internal/svc/servicecontext.go" beforeDir="false" afterPath="$PROJECT_DIR$/Api/unifiedLogin/internal/svc/servicecontext.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rpc/qyWxBinDing/internal/model/bandingWx/binDingSql.go" beforeDir="false" afterPath="$PROJECT_DIR$/Rpc/qyWxBinDing/internal/model/bandingWx/binDingSql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/discov/subscriber.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/resolver/directbuilder.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/resolver/resolver.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/resolver/subset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/sql/unifiedLogin/userModel.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/sql/unifiedLogin/userModel.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1t6RRylgzq2IPIHpdk5XD56IIqH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Rpc/qyWxBinDing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProject\practice\ZeroProject\Api\unifiedLogin\internal\handler" />
+      <recent name="D:\GoProject\practice\ZeroProject\unitTesting" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\authToken" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\unifiedLogin" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProject\practice\ZeroProject\Rpc\qyWxBinDing" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\unifiedLogin" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\unifiedLogin\internal\handler" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\unifiedLogin\utils" />
+      <recent name="D:\GoProject\practice\ZeroProject\Api\authToken" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ZeroProject/Api/qyWxBinDing">
+    <configuration name="go build ZeroProject/Api/authToken" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ZeroProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Api/authToken/auth.go" />
+      <package value="ZeroProject/Api/authToken" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ZeroProject/Api/qyWxBinDing" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ZeroProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Api/qyWxBinDing/qywxbinding.go" />
+      <package value="ZeroProject/Api/qyWxBinDing" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ZeroProject/Api/unifiedLogin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ZeroProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Api/unifiedLogin/unifiedloginApi.go" />
+      <package value="ZeroProject/Api/unifiedLogin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ZeroProject/Rpc/qyWxBinDing" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ZeroProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Rpc/qyWxBinDing/qywxbindingRpc.go" />
+      <package value="ZeroProject/Rpc/qyWxBinDing" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ZeroProject/Rpc/unifiedLogin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ZeroProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Rpc/unifiedLogin/unifiedloginRpc.go" />
+      <package value="ZeroProject/Rpc/unifiedLogin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ZeroProject/Api/qyWxBinDing" />
+        <item itemvalue="Go Build.go build ZeroProject/Rpc/qyWxBinDing" />
+        <item itemvalue="Go Build.go build ZeroProject/Api/authToken" />
+        <item itemvalue="Go Build.go build ZeroProject/Api/unifiedLogin" />
+        <item itemvalue="Go Build.go build ZeroProject/Rpc/unifiedLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="http://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="223" width="1092" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622789116026">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="79" y="223" width="1092" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1622789116026" />
+    <state x="100" y="100" width="1080" height="784" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1626770361379">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="100" y="100" width="1080" height="784" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.984@0.0.1280.984" timestamp="1626770361379" />
+    <state x="318" y="291" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627291217987">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="318" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1627291217987" />
+    <state x="238" y="58" key="CommitChangelistDialog2" timestamp="1623807824860">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="238" y="58" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1623807824860" />
+    <state width="926" height="466" key="DebuggerActiveHint" timestamp="1626850216901">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="926" height="466" key="DebuggerActiveHint/0.0.1280.984@0.0.1280.984" timestamp="1626850216901" />
+    <state x="539" y="351" key="EnvironmentVariablesDialog" timestamp="1623909137475">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="539" y="351" key="EnvironmentVariablesDialog/0.0.1280.984@0.0.1280.984" timestamp="1623909137475" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1625789381489">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1625789381489" />
+    <state x="451" y="391" key="Github.CreateGistDialog" timestamp="1622167661451">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="451" y="391" key="Github.CreateGistDialog/0.0.1280.984@0.0.1280.984" timestamp="1622167661451" />
+    <state width="1220" height="194" key="GridCell.Tab.0.bottom" timestamp="1627284686189">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="194" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1627284686189" />
+    <state width="1220" height="194" key="GridCell.Tab.0.center" timestamp="1627284686189">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="194" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1627284686189" />
+    <state width="1220" height="194" key="GridCell.Tab.0.left" timestamp="1627284686189">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="194" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1627284686189" />
+    <state width="1220" height="194" key="GridCell.Tab.0.right" timestamp="1627284686189">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="194" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1627284686189" />
+    <state width="1220" height="192" key="GridCell.Tab.1.bottom" timestamp="1626999682840">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="192" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1626999682840" />
+    <state width="1220" height="192" key="GridCell.Tab.1.center" timestamp="1626999682840">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="192" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1626999682840" />
+    <state width="1220" height="192" key="GridCell.Tab.1.left" timestamp="1626999682840">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="192" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1626999682840" />
+    <state width="1220" height="192" key="GridCell.Tab.1.right" timestamp="1626999682840">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="192" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1626999682840" />
+    <state x="220" y="225" key="IDE.errors.dialog" timestamp="1622106378122">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="220" y="225" key="IDE.errors.dialog/0.0.1280.984@0.0.1280.984" timestamp="1622106378122" />
+    <state x="141" y="123" key="SettingsEditor" timestamp="1622433059080">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="123" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1622433059080" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1622793600802">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1622793600802" />
+    <state width="648" height="500" key="XDebugger.FullValuePopup" timestamp="1625469944618">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="648" height="500" key="XDebugger.FullValuePopup/0.0.1280.984@0.0.1280.984" timestamp="1625469944618" />
+    <state x="439" y="204" width="634" height="596" key="find.popup" timestamp="1627030319679">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="439" y="204" width="634" height="596" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1627030319679" />
+    <state x="480" y="249" key="refactoring.ChangeSignatureDialog" timestamp="1626752561881">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="480" y="249" key="refactoring.ChangeSignatureDialog/0.0.1280.984@0.0.1280.984" timestamp="1626752561881" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1623373956734">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1623373956734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Rpc/test/test.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Rpc/nacosServer/internalServer/rpcPubServer.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="err" />
+        <watch expression="*(*&quot;github.com/tal-tech/go-zero/zrpc/internal.client&quot;)(824639439424)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

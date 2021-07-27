@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package unifiedLogin;
+
+message Request {
+  string username = 1;
+  string password = 2;
+}
+
+message Response {
+  string Token = 1;
+  int64 expire = 2;
+}
+
+service UnifiedLogin {
+  rpc LoginToken(Request) returns(Response);
+}

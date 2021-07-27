@@ -1,0 +1,160 @@
+2021-07-07T09:12:01.828+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogine69e4e7e46967aa3a4f070e5374b35f940067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.834+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.837+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757540067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.838+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.841+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpcff01b15ed7d1d10c8c6fd3f60404495440067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.842+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.843+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:12:01.845+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpc4e1b34661c70cae8b648ee0ad6e02dae40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.846+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:12:01.846+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.847+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:12:01.847+0800	[34mINFO[0m	get config from server error:[404] config data not exist
+ 
+2021-07-07T09:12:01.847+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogine69e4e7e46967aa3a4f070e5374b35f940067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.847+0800	[33mWARN[0m	[client.GetConfig] config not found, dataId: wxUnfollowwApiClient, group: api, namespaceId: 40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78.
+2021-07-07T09:12:01.849+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApif8d11935bedb2ecf265558bdf9b4d6be40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.850+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757540067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.852+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.854+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.854+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpcff01b15ed7d1d10c8c6fd3f60404495440067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.856+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpc4e1b34661c70cae8b648ee0ad6e02dae40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.857+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.860+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingRpcRpcca1ddb5a6fa8fb5f10ec199316c1f39840067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.864+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApif8d11935bedb2ecf265558bdf9b4d6be40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.864+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.867+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.867+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingApiApif63f32937226a29542e93103ef2a65cf40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.869+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:TokenVerificationApiApi9fb7f5103c0bd78b6fdc419b6e54eda340067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:12:01.869+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.870+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:12:01.877+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingRpcRpcca1ddb5a6fa8fb5f10ec199316c1f39840067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.881+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingApiApif63f32937226a29542e93103ef2a65cf40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:12:01.881+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:TokenVerificationApiApi9fb7f5103c0bd78b6fdc419b6e54eda340067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.062+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogine69e4e7e46967aa3a4f070e5374b35f940067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.065+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.072+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757540067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.074+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.076+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpcff01b15ed7d1d10c8c6fd3f60404495440067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.076+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:15:20.077+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogine69e4e7e46967aa3a4f070e5374b35f940067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.079+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.080+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:15:20.080+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpc4e1b34661c70cae8b648ee0ad6e02dae40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.081+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:15:20.081+0800	[34mINFO[0m	get config from server error:[404] config data not exist
+ 
+2021-07-07T09:15:20.081+0800	[33mWARN[0m	[client.GetConfig] config not found, dataId: wxUnfollowwApiClient, group: api, namespaceId: 40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78.
+2021-07-07T09:15:20.082+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.083+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApif8d11935bedb2ecf265558bdf9b4d6be40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.084+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757540067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.085+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.086+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.088+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.089+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpcff01b15ed7d1d10c8c6fd3f60404495440067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.093+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpc4e1b34661c70cae8b648ee0ad6e02dae40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.094+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingRpcRpcca1ddb5a6fa8fb5f10ec199316c1f39840067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.102+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApif8d11935bedb2ecf265558bdf9b4d6be40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.102+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:15:20.103+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingApiApif63f32937226a29542e93103ef2a65cf40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.103+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:TokenVerificationApiApi9fb7f5103c0bd78b6fdc419b6e54eda340067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78 tenant:40067f0a-1fe7-4f2e-8bd9-a32d3e2f1d78] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:15:20.103+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.104+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:15:20.104+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.805+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogin8fab7b0c3bc86a17485d6b9234cb92ac99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.816+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.826+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:sqlserver-10.28.0.6unifiedLogin8fab7b0c3bc86a17485d6b9234cb92ac99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.845+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757599681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.846+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpca87ba10902bf21a6dcf9761a7e341e0799681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.851+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.851+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.852+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpcef09a154c64ab17a8556c4ca9dbcbe6699681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.855+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"99681f09-8811-46b4-a318-4d629c1e1da6"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:20:48.856+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.856+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApi35d23f90d63b068d368c045a25fe705b99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.857+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"99681f09-8811-46b4-a318-4d629c1e1da6"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:20:48.857+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.858+0800	[31mERROR[0m	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"wxUnfollowwApiClient","group":"api","tenant":"99681f09-8811-46b4-a318-4d629c1e1da6"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2021-07-07T09:20:48.858+0800	[34mINFO[0m	get config from server error:[404] config data not exist
+ 
+2021-07-07T09:20:48.859+0800	[33mWARN[0m	[client.GetConfig] config not found, dataId: wxUnfollowwApiClient, group: api, namespaceId: 99681f09-8811-46b4-a318-4d629c1e1da6.
+2021-07-07T09:20:48.861+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:jwt-secretjwt1e841b4b204aebc4c85fff3fb0da757599681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.861+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:redis-unifiedLoginRpca87ba10902bf21a6dcf9761a7e341e0799681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.863+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.864+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.866+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginRpcRpcef09a154c64ab17a8556c4ca9dbcbe6699681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.867+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:unifiedLoginApiApi35d23f90d63b068d368c045a25fe705b99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.872+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingRpcRpc9fa875c02d665837252d8bd7a5d317e299681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.874+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.875+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:wxUnfollowwApiClientapi99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.878+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingApiApif63f32937226a29542e93103ef2a65cf99681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
+2021-07-07T09:20:48.882+0800	[34mINFO[0m	[client.ListenConfig] no change
+2021-07-07T09:20:48.886+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:Wechat-bindingRpcRpc9fa875c02d665837252d8bd7a5d317e299681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 accessKey: secretKey:] 
+
+2021-07-07T09:20:48.890+0800	[34mINFO[0m	[client.ListenConfig] request params:map[Listening-Configs:TokenVerificationApiApi7ff266f32d5a251832b7c715576f500899681f09-8811-46b4-a318-4d629c1e1da6 tenant:99681f09-8811-46b4-a318-4d629c1e1da6] header:map[Content-Type:application/x-www-form-urlencoded;charset=utf-8 Long-Pulling-Timeout:30000 Long-Pulling-Timeout-No-Hangup:true accessKey: secretKey:] 
+
